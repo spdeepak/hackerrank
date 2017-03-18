@@ -5,6 +5,7 @@ if two or more candidates have the same number of votes, then the tied candidate
 Complete the *election Winner* function in your editor. It has *1* parameter:L an array of strings, *votes*, describing the votes in the ballot box. This function must review these votes and return a string representing the name of the winning candidate.
 
 **Constraints**
+
 * 1<= n <= 10^4
 
 **Input Format**
