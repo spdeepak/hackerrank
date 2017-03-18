@@ -7,10 +7,10 @@ Complete the function so that it returns the number of incorrect sale prices rec
 4. <dl><dt>prices</dl></dt> An array of floating point numbers, where each element contains the sale price recorded by Alex for the item in the corresponding index of items.
 
 **Sample Input 1**
-String[] *origItems* = {"rice","sugar","wheat","cheese"};
-float[] *origPrices* = {16.89F, 56.92F, 20.89F, 345.99F};
-String[] *items* = {"rice","cheese"};
-float[] *origPrices* = {15.99F, 400.79F};
+String[] *origItems* = {"rice","sugar","wheat","cheese"};<br />
+float[] *origPrices* = {16.89F, 56.92F, 20.89F, 345.99F};<br />
+String[] *items* = {"rice","cheese"};<br />
+float[] *origPrices* = {15.99F, 400.79F};<br />
 
 **Sample Output 1**
 2
