@@ -1,4 +1,4 @@
-package com.deepaksp.hackerrank.buyingshowtickets;
+package com.deepaksp.hackerrank.interview.buyingshowtickets;
 
 import java.util.ArrayList;
 import java.util.Arrays;

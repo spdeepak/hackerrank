@@ -1,4 +1,4 @@
-package com.deepaksp.hackerrank.hacklandelection;
+package com.deepaksp.hackerrank.interview.hacklandelection;
 
 import java.util.Collections;
 import java.util.Map;
