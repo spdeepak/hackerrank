@@ -14,8 +14,23 @@ An array of Strings
 **Output Format**
 Name of the person who has the max votes. If there are multiple people with same number of votes(max) then print the last name.
 
-**Sample Input  1**
-String[] votes = { "victor", "veronica", "ryan", "dave", "maria", "farah", "farah", "ryan", "veronica" };
+**Sample Input 1**
+String[] votes = {"Alex", "Michael", "Harry", "Dave", "Michael", "Victor", "Harry", "Alex", "Mary",
+"Mary"};
 
 **Sample Output 1**
+Michael
+
+**Explanation 1**
+votes = {"Alex", "Michael", "Harry", "Dave", "Michael", "Victor", "Harry", "Alex", "Mary", "Mary"}
+Alex, Harry, Michael, and Mary are all tied for the highest number of votes. Because Michael is alphabetically last, we return his name as the winner.
+
+**Sample Input  2**
+String[] votes = { "victor", "veronica", "ryan", "dave", "maria", "farah", "farah", "ryan", "veronica" };
+
+**Sample Output 2**
 veronica
+
+**Explanation 2**
+votes = {"Victor", "Veronica", "Ryan", "Dave", "Maria", "Maria", "Farah", "Farah", "Ryan", "Veronica"}
+Veronica, Ryan, Maria, and Farah are all tied for the highest number of votes. Because Veronica is alphabetically last, we return her name as the winner.
