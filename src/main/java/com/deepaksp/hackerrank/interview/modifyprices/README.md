@@ -7,9 +7,9 @@ Complete the function so that it returns the number of incorrect sale prices rec
 4. <dl><dt>prices</dl></dt> An array of floating point numbers, where each element contains the sale price recorded by Alex for the item in the corresponding index of items.
 
 **Constraints**
-1. <dl>1 <= N <= 10</dl>
-2. <dl>1 <= M <= N</dl>
-3. <dl>1.00 <= origPrices , prices <= 100000.00, where 0 <= i < N, and 0 <= j < M</dl>
+1. 1 <= N <= 10
+2. 1 <= M <= N
+3. 1.00 <= origPrices , prices <= 100000.00, where 0 <= i < N, and 0 <= j < M
 
 **Output Format**
 Return the number of items whose sale prices were incorrectly recorded by Alex.
